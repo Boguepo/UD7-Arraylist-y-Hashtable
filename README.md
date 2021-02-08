@@ -4,7 +4,7 @@
 #### 1. Equipo Desarrollo 
 
 | Developer | Rama | Rol |
-| --- | :---:  | :---:  | :---:  | :---: | :---:  |
+| --- | :---:  | :---:  | 
 | Antonio Arjona | Master/dev1 | Project Manager | 08/02/2021 |   |   |
 
 
